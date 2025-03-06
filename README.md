@@ -9,8 +9,11 @@ Responsividade: A página foi projetada para ser completamente funcional em disp
 Funcionalidades:
 Design moderno e atrativo: Layout clean com uma paleta de cores que reflete a identidade visual da loja.
 Seção de detalhes da loja: Inclui informações sobre o endereço, horário de funcionamento e dados de contato.
+
 Chamada para ação (CTA): Incentivo para que os usuários se cadastrem para receber mais informações sobre a inauguração e novidades.
-Imagem de destaque: Área visual com uma imagem impactante representando o tema da loja ou evento de inauguração.
+
+Imagem de destaque: Área visual com uma imagem representando o tema da loja ou evento de inauguração.
+
 Botões e links: Direcionamento para redes sociais e outras páginas importantes.
 
 Objetivo:
